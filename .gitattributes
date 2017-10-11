@@ -2,3 +2,5 @@
 *.css linguist-language=C#
 *.html linguist-language=C#
 *.asp linguist-language=C#
+*.class linguist-language=C#
+*.properties linguist-language=C#
